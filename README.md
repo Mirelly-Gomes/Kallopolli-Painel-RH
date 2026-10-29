@@ -1,4 +1,4 @@
-# Kallopalli — Dashboard de jornadas
+# Kallopolli — Dashboard de jornadas
 
 Protótipo responsivo feito com HTML, CSS e JavaScript puro. Os dados são fictícios e ficam isolados em um repositório para facilitar a troca por uma API REST no futuro.
 
